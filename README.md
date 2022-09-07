@@ -1,2 +1,2 @@
 # financial_model
- Predicting Apple stock price using machine learning algorithm
+Data analysis in matplotlib, numpy and seaborn
