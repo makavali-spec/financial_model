@@ -1,2 +1,2 @@
 # financial_model
-Data analysis in matplotlib, numpy and seaborn
+Data analysis with matplotlib, numpy and seaborn
